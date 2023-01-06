@@ -42,6 +42,7 @@ python improvement_suggestions.py
 ### Acknowledgements
 
 #### All team members of Team coDecoders
+##### Sandeep Mishra
 ##### Aayush Jitendra Kumar
 ##### Avinash Kumar
 ##### Shaswat Sheshank
